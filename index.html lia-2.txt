@@ -1,0 +1,21 @@
+<html>
+     <head></head>
+     <body>,<h1> hello world, nama saya maulia maqfirotun jannah</h1>
+            <p>ini adalah hari pertama saya belajar HTML. saya siap menjadi progammer RPL yang hebat.</p>
+</html>
+
+<html>
+
+<head>hello world, nama saya lia</head>
+<body>
+
+<p style="color:red;">ini adalah hari pertama saya belajar HTML. saya siap menjadi progammer
+<h3 style="color:green;">Biodata singkat </h3>
+<ul>
+   <li style="color:blue;">Nama lengkap: Maulia maqfirotun jannah</li>
+   <li style="color:blue;">Kelas: X RPL B
+   <li style="color:blue;">Hobi: Berenang, merajut
+</ul>
+</body>
+
+</html>
